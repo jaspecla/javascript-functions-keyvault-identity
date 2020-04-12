@@ -1,7 +1,7 @@
 {
   "IsEncrypted": true,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8DlUcH0NlKFArryrxC4dKa7/ZJONXQvO6peChOOrwWAn7nZGXysFb1ltM7RDgPUQQdqjzk+hGEsATvbdYnf/HIQghelsXJO2/l/ZOVFhfIclFceeEexgQcKvPXGSVplV/A==",
+    "FUNCTIONS_WORKER_RUNTIME": "<Set the value of this to 'node' using func settings. If you create a new Azure Function with func new, this value will be created automatically.>",
     "AZURE_TENANT_ID": "<Your Azure AD Tenant ID goes here.>",
     "AZURE_CLIENT_ID": "<The Client ID of the Azure AD Application you use for LOCAL DEVELOPMENT goes here.>",
     "AZURE_CLIENT_SECRET": "<The Client secret of the Azure AD Application you use for LOCAL DEVELOPMENT goes here.>",
